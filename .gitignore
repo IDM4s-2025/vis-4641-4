@@ -174,3 +174,4 @@ cython_debug/
 .pypirc
 Iris.csv
 OECD,DF_BLI,+all(1).csv
+gdp-per-capita-worldbank.csv
